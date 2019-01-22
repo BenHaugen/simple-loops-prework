@@ -30,7 +30,7 @@ end
 def while_iterator(number_of_times)
   # code your solution here using the "while" keyword
   # hint: user a counter to tell the while loop when to stop!
-  while number_of_times < 8 do
+  while number_of_times < 8
     puts phrase
     phrase += 1
   phrase = "Welcome to Flatiron School's Web Development Course!"
