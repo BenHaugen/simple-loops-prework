@@ -1,5 +1,5 @@
 # REMEMBER: print your output to the terminal using 'puts'
-
+number_of_times = 0
 def loop_iterator(number_of_times)
   # Code your solution here using the "loop" keyword to puts out the below phrase
   # This and all the other methods take an argument of an integer
@@ -17,7 +17,7 @@ def loop_iterator(number_of_times)
       break 
 end
 end
-
+end
 
 def times_iterator(number_of_times)
   # code your solution here using the "times" keyword
